@@ -1,7 +1,6 @@
-# 5 Strategic Areas for Career Growth 
-## (Next 2 Years)
+# 5 Strategic Areas for Career Growth (Next 2 Years)
 
----
+
 
 ## 1. Advanced System Architecture & Micro-Frontends
 
